@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Klutchevski</string>
+	<string>Bellavene</string>
 	<key>CapeName</key>
 	<string>Unnamed</string>
 	<key>CapeVersion</key>
@@ -264,7 +264,7 @@
 	<key>HiDPI</key>
 	<true/>
 	<key>Identifier</key>
-	<string>local.Klutchevski.Unnamed.663785627.568427</string>
+	<string>local.Doint.Unnamed.663785627.568427</string>
 	<key>MinimumVersion</key>
 	<real>2</real>
 	<key>Version</key>
