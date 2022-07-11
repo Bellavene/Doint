@@ -5,3 +5,5 @@ Got tired with classic pointer. So made a simple one myself.
 
 Latest build of Mousecape with M1 support
 https://github.com/alexzielenski/Mousecape/issues/172#issuecomment-1126620564
+
+![Preview](https://github.com/Bellavene/Doint/blob/main/Preview.png?raw=true "Preview")
